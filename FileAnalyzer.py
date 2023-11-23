@@ -5,7 +5,7 @@ import string
 
 #About author info
 def aboutAuthor():
-    tkinter.messagebox.showinfo('About author', 'My name is Dashkin Ilya.\nI\'m a student of KSTU.\nThis program was created specifically for the course project.')
+    tkinter.messagebox.showinfo('About author', 'My name is Dashkin Ilya and my name is Madiyar.\nI\'m a student of KSTU.\nThis program was created specifically for the course project.')
 #About version info
 def version():
     tkinter.messagebox.showinfo('Version', 'Program version: 1.0.0')
